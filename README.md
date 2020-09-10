@@ -7,7 +7,4 @@
 |  학과  |        소프트웨어학부        |
 | 좌우명 |    "매사에 최선을 다하자"     |
 | 서식지 |       경기도 동두천시        |
-
-
-
-! [동두천](https://www.ddc.go.kr/site/ddc/images/contents/cts68.jpg)
+![잘 부탁드립니다](https://cdn.crowdpic.net/list-thumb/thumb_l_52539F20B0F552AACEB9CC51863D0E31.png)
