@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Oswald:wght@200;300;400;700&display=swap');
+
+
+.hidden {
+    display: none;
+}
+
+* {
+    font-family: 'Oswald', 'Gowun Dodum', sans-serif;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+}
+
+#clock {
+    font-size: 50px;   
+}
+
+#login {
+    font-size: 60px;
+}
+
+.inputbox {
+    width: 250px;
+    position: center;
+    flex-direction: row;
+}
+
+.inputbox input{
+    width: 100%;
+    padding: 10px;
+}
+
+#todo-list{
+    font-size: 30px;
+    display: inline;
+}
+
+#weather {
+    border: solid 3px black;
+    font-size: 30px;
+}
